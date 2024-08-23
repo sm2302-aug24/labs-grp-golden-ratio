@@ -1,7 +1,7 @@
 |                                                         |               |                 |               |
 |---------------------------------------------------------|---------------|-----------------|---------------|
-| A brief bio                                             | Name:         | Age:            | Student ID:   |
-| Your favourite mathematical concept or problem, and why | Math Concept: | Reason:         | Source:       |
-| A fun fact about yourself or your hobbies               | 1.            | 2.              | 3.            |
-| A photo, avatar image, or any photo you find inspiring  | (fav animal)  | (fav celebrity) | (fav scenery) |
-| (Optional) Any other info about yourself                | 1.            | 2.              | 3.            |
+| A brief bio                                             | Name: Naufal        | Age: 22           | Student ID: 21b2066  |
+| Your favourite mathematical concept or problem, and why | Math Concept: Permutation and combinations | Reason: very useful for me         | Source: I first learned this during my Alevel time.       |
+| A fun fact about yourself or your hobbies               | 1. Open-minded (incredibly)            | 2. my hobby is drawing/art             | 3. A talent that possess is fasion designing           |
+| A photo, avatar image, or any photo you find inspiring  | ![alt text](https://i.pinimg.com/236x/da/e7/4a/dae74af2b65a477ca94088a35989a6cd.jpg) (Favourite Animal) | ![alt text](https://w7.pngwing.com/pngs/719/959/png-transparent-celebes-crested-macaque-monkey-selfie-grapher-people-for-the-ethical-treatment-of-animals-funny-mammal-animals-terrestrial-animal-thumbnail.png) (favourite Celebrity)| ![alt text](https://static.vecteezy.com/system/resources/previews/027/925/338/large_2x/aerial-view-white-clouds-in-blue-sky-top-view-from-drone-aerial-bird-s-eye-aerial-top-view-cloudscape-sky-background-generative-ai-illustration-photo.jpg) (Favourite Scenery) |
+| (Optional) Any other info about yourself                | 1. Im a dude            | 2. I didnt know I was a dude              | 3. i first realised my gender the moment I gained conciousness/feeling of existence           |
