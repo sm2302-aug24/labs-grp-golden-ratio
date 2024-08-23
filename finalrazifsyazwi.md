@@ -1,0 +1,7 @@
+|                                                         |               |                 |               |
+|---------------------------------------------------------|---------------|-----------------|---------------|
+| A brief bio                                             | Name: RazifSyazwi        | Age: 21           | Student ID: 21B2104  |
+| Your favourite mathematical concept or problem, and why | Math Concept: Lhopital's Rule | Reason: Makes life easier        | Source: Limits      |
+| A fun fact about yourself or your hobbies               | 1. Playing sports           | 2. Binge watching anime             | 3. I like quality time          |
+| A photo, avatar image, or any photo you find inspiring  | ![alt text](https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/3a0b1690-1980-483b-a1c4-054b96626cf3/db4881d1-6d87-4a07-8a8f-9e8902f205a7.png)(Favourite Animal)  | ![alt text](https://www.vibe.com/wp-content/uploads/2023/02/GettyImages-1393079250-e1676666115958.jpg)(Favourite Celebrity) | ![alt text](https://scitechdaily.com/images/Milky-Way-From-Canyonlands-National-Park-scaled.jpg)(Favourite Scenery) |
+| (Optional) Any other info about yourself                | 1. I can touch my right elbow to my right toe           | 2. Indomee is my guilty pleasure              | 3. Ayamku is my comfort food          |
